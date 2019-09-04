@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Assets.Scripts.EventBus
+namespace Patterns.EventBus
 {
 	public sealed class Rocket : MonoBehaviour
 	{

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine.Events;
 
-namespace Assets.Scripts.EventBus
+namespace Patterns.EventBus
 {
 	public sealed class EventBus : Singleton<EventBus>
 	{
